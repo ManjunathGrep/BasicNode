@@ -13,3 +13,5 @@ const add = (a,b)=>{
     return a+byup
 }
 
+console.log("hello")
+
